@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.email{
+    display: flex;
+    justify-content:end;
+    background-color: black;
+    color: white;
+}
+
+.nav{
+    display: flex;
+    margin-left: 200px;
+}
+
+.card {
+    margin-top: 2em;
+    padding: 1.5em 0.5em 0.5em;
+    border-radius: 2em;
+    text-align: center;
+    border: none !important;
+   
+  }
+  .card img {
+    width: 55%;
+    border-radius: 90%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  /* .card-1{
+    width: 65%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    backgcolor: white !important;
+  }
+   */
